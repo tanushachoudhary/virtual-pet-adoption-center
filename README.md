@@ -35,9 +35,7 @@ The **Virtual Pet Adoption Center** is a fun and interactive platform where user
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/34a2821d-b0c9-4666-8ff1-3d064e22c3e3)
-
 ![image](https://github.com/user-attachments/assets/8fa27c55-1ed6-4201-8c73-bea9df7bdeb7)
-
 ![image](https://github.com/user-attachments/assets/e95236e4-f762-4420-8c82-6b002fa1ac5c)
 
 
